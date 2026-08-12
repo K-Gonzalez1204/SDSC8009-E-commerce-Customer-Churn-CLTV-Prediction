@@ -1,0 +1,17 @@
+# Generated / cache
+data/
+output/
+pre/
+catboost_info/
+.history/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+docs/
